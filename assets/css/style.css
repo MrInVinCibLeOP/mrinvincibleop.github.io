@@ -1,15 +1,11 @@
 @charset "UTF-8";
 /*
-Template Name: Necromancers
-Template URI: http://bit.ly/necro-html
-Author: Dan Fisher
-Author URI: http://bit.ly/dan_fisher
-Description: HTML Template for eSports Teams
-Version: 1.5.1
+Template Name: MR.INVINCIBLE
+Author: MR.INVINCIBLE
 */
 /*
 File Name:    style.css
-Written by:   Dan Fisher - (http://bit.ly/dan_fisher)
+Written by:   MR.INVINCIBLE 
 Description:  General styling for template (including Header, Footer, Sidebar)
 */
 /* Table of Content
@@ -91,12 +87,7 @@ Description:  General styling for template (including Header, Footer, Sidebar)
 		- Checkout
 		- Shop
 */
-/*!
- * Bootstrap v4.6.1 (https://getbootstrap.com/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
